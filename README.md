@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sahil Sukhdeve</h1>
-<h3 align="center">A Tech Enthusiast | Trying to understand the language of 0s and 1s.| DSA | web developer.| MERN Stack |</h3>
+<h3 align="center">Trying to understand the language of 0s and 1s | DSA | Web Developer| MERN Stack |</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sahil-sukhdeve12&label=Profile%20views&color=0e75b6&style=flat" alt="sahil-sukhdeve12" /> </p>
+
 
 - 🌱 I’m currently learning **DSA WITH JAVA | WEB DEVELOPMENT**
 
